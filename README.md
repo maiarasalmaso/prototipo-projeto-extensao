@@ -1,5 +1,5 @@
 # projeto-extensão
-Protótipo de um jogo sobre petróleo desenvolvido em Python por meio de um projeto de extensão da UTFPR
+Protótipo de um jogo sobre petróleo desenvolvido em Python por meio de um projeto de extensão da UTFPR em conjunto com as professoras Larissa Maria Fernandes Gatti e Lisandra Ferreira de Lima.
 
 # Como instalar? 
 * Baixe e instale o [Pygame 1.9.1 ](https://www.pygame.org/ftp/pygame-1.9.1release.zip) e o [Python2.7](https://www.python.org/download/releases/2.7/);
